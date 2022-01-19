@@ -18,9 +18,7 @@ class MainActivity : AppCompatActivity() {
 
     var currentImageUrl: String?=null
 
-    class string {
 
-    }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
